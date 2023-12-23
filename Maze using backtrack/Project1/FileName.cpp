@@ -19,7 +19,7 @@ check which step is = " "
 (checking up, down, left and right)
 looping in this fuction till it reaches the apple
 ###########################################################################
-The code will shows ONLY the results of backTrack algorthim 
+The code will shows ONLY the results of backTrack algorithm 
 it only shows all the solutions could be made to reach the apple
 ###########################################################################
 GOOD LUCK !! 
