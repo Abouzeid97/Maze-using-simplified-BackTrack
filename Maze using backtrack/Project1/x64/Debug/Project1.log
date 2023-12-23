@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+F:\University\Semester 3\CS213 Data Structures\Maze using backtrack\Project1\FileName.cpp(274,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> F:\University\Semester 3\CS213 Data Structures\Maze using backtrack\x64\Debug\Project1.exe
