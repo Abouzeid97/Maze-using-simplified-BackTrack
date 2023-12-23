@@ -1,6 +1,6 @@
-// Hello There !!!!
-// PLEASE READ THE DESCRIPTION IF YOU ARE STUCK IN CODE OR NEED SOME EXPLAINATION
-/*This is Abouzeid97 I've used Visual Studio 2010 
+/* Hello There !!!!
+PLEASE READ THE DESCRIPTION IF YOU ARE STUCK IN CODE OR NEED SOME EXPLAINATION
+This is Abouzeid97 I've used Visual Studio 2010 
 and have been updated to version 2022 
 ###########################################################################
 In this code I've used a HardCoded Maze using the function : Maze()
