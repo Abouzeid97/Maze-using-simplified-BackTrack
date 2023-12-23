@@ -1,3 +1,31 @@
+// Hello There !!!!
+// PLEASE READ THE DESCRIPTION IF YOU ARE STUCK IN CODE OR NEED SOME EXPLAINATION
+/*This is Abouzeid97 I've used Visual Studio 2010 
+and have been updated to version 2022 
+////////////////////////////////////////////////////////////////////////////
+In this code I've used a HardCoded Maze using the function : Maze()
+for more details see the class "cnode" this is how I created the maze
+////////////////////////////////////////////////////////////////////////////
+Creating the maze:
+let's say we have a Mouse in symbol 'Q'
+It needs to reach the apple in symbol "@"
+The maze was created having some obstacles in symbol "#"
+And every step has been taken by the mouse it took the symbol "."
+////////////////////////////////////////////////////////////////////////////
+The algorithm used Explaination :
+As we said the mouse take the symbol 'Q' 
+it checks in every step which step to take
+check which step is = " " 
+(checking up, down, left and right)
+looping in this fuction till it reaches the apple
+////////////////////////////////////////////////////////////////////////////
+The code will shows ONLY the results of backTrack algorthim 
+it only shows all the solutions could be made to reach the apple
+////////////////////////////////////////////////////////////////////////////
+GOOD LUCK !! 
+*/
+
+
 #include<iostream>
 #include<stdio.h>
 using namespace std;
@@ -265,7 +293,7 @@ void Maze()
 	while (s.phead != NULL)
 	{
 		pcurr = s.pop();
-
+		
 		backtrack(pcurr, s);
 	}
 }
@@ -274,3 +302,4 @@ void main()
 {
 	Maze();
 }
+// ABOUZEID97 
